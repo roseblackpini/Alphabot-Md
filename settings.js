@@ -39,8 +39,8 @@ global.ownernomerr = "+6283141380608" //nmr wa kalian
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.packname = '© Alphabot-Mdོ' //sticker wm ubah
-global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm ganti nama kalian
+global.packname = '© RepasBOT' //sticker wm ubah
+global.author = 'Created By RepasSyahputra' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.typemenu = 'document'
 
